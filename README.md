@@ -20,5 +20,5 @@ make sure cmd directory is current directory.
 
 we have used yahoo finance dataset for training model.
 
-### the model training is shown in model.ipynb file.
+the model training is in model.ipynb file.
 
